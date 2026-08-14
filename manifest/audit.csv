@@ -1,0 +1,130 @@
+source_path,skill_name,origin,decision,reason,license
+/root/.claude/skills/synced/agentic,agentic,personal,exclude,C3 fail: not v0 domain,MIT
+/root/.claude/skills/synced/algorithmic-art,algorithmic-art,personal,exclude,C3 fail: not v0 domain,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/ant,ant,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/artifacts-builder,artifacts-builder,personal,exclude,C2 fail: requires ```bash; scripts/bundle-artifact.sh; scripts/init-artifact.sh,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/artistic,artistic,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/baldor-create-sop,baldor-create-sop,personal,exclude,C2 fail: requires /mnt/skills/; ```bash; scripts/office/validate.py; subagent,
+/root/.claude/skills/synced/baldor-ppt,baldor-ppt,personal,exclude,C2 fail: requires /mnt/skills/; ```bash,
+/root/.claude/skills/synced/basic,basic,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/bold,bold,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/brand-guidelines,brand-guidelines,personal,exclude,"C4: Anthropic example-skill mirror, no redistribution license",Complete terms in LICENSE.txt
+/root/.claude/skills/synced/brutalism,brutalism,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/cafe,cafe,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/canvas-design,canvas-design,personal,exclude,"C4: Anthropic example-skill mirror, no redistribution license",Complete terms in LICENSE.txt
+/root/.claude/skills/synced/changelog-generator,changelog-generator,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/claymorphism,claymorphism,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/clean,clean,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/codex,codex,personal,include-copy,"personal, instruction-only, domain fit",personal
+/root/.claude/skills/synced/colorful,colorful,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/competitive-ads-extractor,competitive-ads-extractor,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/compliance-authority-style,compliance-authority-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/composio-fullstack-pipeline,composio-fullstack-pipeline,personal,exclude,C2 fail: requires COMPOSIO_; SUBAGENT; ```bash; scripts/bootstrap_session.sh; scripts/checkpoint.sh,
+/root/.claude/skills/synced/connect,connect,personal,exclude,C2 fail: requires COMPOSIO_; ```bash,
+/root/.claude/skills/synced/connect-apps,connect-apps,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/contemporary,contemporary,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/content-craft-pro-style,content-craft-pro-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/content-research-writer,content-research-writer,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/corporate,corporate,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/cosmic,cosmic,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/creative,creative,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/data-storyteller-style,data-storyteller-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/deal-architect-style,deal-architect-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/developer-growth-analysis,developer-growth-analysis,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/diligent-investigator-style,diligent-investigator-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/dithered,dithered,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/dobeu-figma-make-design,dobeu-figma-make-design,dobeu,include-copy,"Dobeu-owned, v0-native",proprietary-dobeu
+/root/.claude/skills/synced/dobeu-v0-design,dobeu-v0-design,dobeu,include-copy,"Dobeu-owned, v0-native",proprietary-dobeu
+/root/.claude/skills/synced/doc-coauthoring,doc-coauthoring,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/docx,docx,personal,exclude,C2 fail: requires ```bash; scripts/accept_changes.py; scripts/comment.py; scripts/merge_runs.py; scripts/office/soffice.py,Proprietary. LICENSE.txt has complete terms
+/root/.claude/skills/synced/domain-name-brainstormer,domain-name-brainstormer,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/doodle,doodle,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/dramatic,dramatic,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/editorial,editorial,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/enterprise,enterprise,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/executive-strategist-style,executive-strategist-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/expert-auditor-style,expert-auditor-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/expert-implementer-style,expert-implementer-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/expert-practitioner-style,expert-practitioner-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/expressive,expressive,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/fantasy,fantasy,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/fiction,fiction,personal,include-copy,"personal, instruction-only, domain fit",personal
+/root/.claude/skills/synced/file-organizer,file-organizer,personal,exclude,C2 fail: requires ```bash,
+/root/.claude/skills/synced/flat,flat,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/friendly,friendly,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/futuristic,futuristic,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/geometric,geometric,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/glassmorphism,glassmorphism,personal,exclude,C3 fail: not v0 domain,MIT
+/root/.claude/skills/synced/gradient,gradient,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/grok-review,grok-review,personal,exclude,C2 fail: requires ```bash; scripts/extract_office.py; scripts/grok_review.py,
+/root/.claude/skills/synced/growth-strategist-north-star-style,growth-strategist-north-star-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/herdr,herdr,personal,exclude,C2 fail: requires ```bash,
+/root/.claude/skills/synced/image-enhancer,image-enhancer,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/immersive,immersive,personal,include-copy,"personal, instruction-only, domain fit",personal
+/root/.claude/skills/synced/impeccable,impeccable,personal,include-copy,"personal, instruction-only, domain fit",personal
+/root/.claude/skills/synced/install-rho,install-rho,personal,exclude,C2 fail: requires ```bash; tmux,
+/root/.claude/skills/synced/internal-comms,internal-comms,personal,exclude,C3 fail: not v0 domain,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/invoice-organizer,invoice-organizer,personal,exclude,C2 fail: requires ```bash,
+/root/.claude/skills/synced/langsmith-fetch,langsmith-fetch,personal,exclude,C2 fail: requires ```bash,
+/root/.claude/skills/synced/lead-research-assistant,lead-research-assistant,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/learn,learn,personal,exclude,C3 fail: not v0 domain,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/lettabot,lettabot,personal,exclude,C2 fail: requires ```bash; npx molthub@latest,
+/root/.claude/skills/synced/levels,levels,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/lingo,lingo,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/material,material,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/matrix,matrix,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/mcp-builder,mcp-builder,personal,exclude,C2 fail: requires npx @modelcontextprotocol/insp,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/meeting-insights-analyzer,meeting-insights-analyzer,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/minimal,minimal,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/modern,modern,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/mono,mono,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/morning,morning,personal,exclude,C2 fail: requires /mnt/skills/,
+/root/.claude/skills/synced/neobrutalism,neobrutalism,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/neon,neon,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/neumorphism,neumorphism,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/notebooklm,notebooklm,personal,exclude,C2 fail: requires COMPOSIO_; ```bash; mcp__Claude_in_Chrome__; mcp__claude_ai_Google_Drive__c,
+/root/.claude/skills/synced/npm-package-publisher,npm-package-publisher,personal,exclude,C2 fail: requires ```bash; allowed-tools; scripts/scaffold_package.py,
+/root/.claude/skills/synced/pacman,pacman,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/paper,paper,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/pdf,pdf,personal,exclude,C2 fail: requires ```bash,Proprietary. LICENSE.txt has complete terms
+/root/.claude/skills/synced/perspective,perspective,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/power,power,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/pptx,pptx,personal,exclude,C2 fail: requires ```bash; scripts/add_slide.py; scripts/clean.py; scripts/office/soffice.py; scripts/office/validate.py,Proprietary. LICENSE.txt has complete terms
+/root/.claude/skills/synced/premium,premium,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/professional,professional,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/pulse,pulse,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/raffle-winner-picker,raffle-winner-picker,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/refined,refined,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/retro,retro,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/riso,riso,personal,include-copy,"personal, instruction-only, domain fit",personal
+/root/.claude/skills/synced/roku,roku,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/sega,sega,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/shadcn,shadcn,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/sketch,sketch,personal,include-copy,"personal, instruction-only, domain fit",personal
+/root/.claude/skills/synced/skeumorphism,skeumorphism,personal,exclude,C3 fail: not v0 domain,MIT
+/root/.claude/skills/synced/skill-creator,skill-creator,personal,exclude,C2 fail: requires ```bash; subagent,
+/root/.claude/skills/synced/skill-share,skill-share,personal,exclude,C3 fail: not v0 domain,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/slack-gif-creator,slack-gif-creator,personal,exclude,C2 fail: requires ```bash,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/sleek,sleek,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/spacious,spacious,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/square,square,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/stack-eval,stack-eval,personal,exclude,C2 fail: requires scripts/sync-installs.sh; subagent,
+/root/.claude/skills/synced/stitch,stitch,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/storytelling,storytelling,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/straight-talk-nutritionist-style,straight-talk-nutritionist-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/systematic-insight-style,systematic-insight-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/tailored-resume-generator,tailored-resume-generator,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/tech-solutions-architect-style,tech-solutions-architect-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/tech-venture-architect-style,tech-venture-architect-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/template-skill,template-skill,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/terracotta,terracotta,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/tetris,tetris,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/theme-factory,theme-factory,personal,exclude,"C4: Anthropic example-skill mirror, no redistribution license",Complete terms in LICENSE.txt
+/root/.claude/skills/synced/twitter-algorithm-optimizer,twitter-algorithm-optimizer,personal,exclude,C3 fail: not v0 domain,AGPL-3.0 (referencing Twitter's algorithm source)
+/root/.claude/skills/synced/ui-ux-design-maestro-style,ui-ux-design-maestro-style,personal,exclude,C3 fail: not v0 domain,
+/root/.claude/skills/synced/vibrant,vibrant,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/video-downloader,video-downloader,personal,exclude,C2 fail: requires ```bash; scripts/download_video.py,
+/root/.claude/skills/synced/vintage,vintage,personal,include-copy,"personal, instruction-only, domain fit",MIT
+/root/.claude/skills/synced/web-artifacts-builder,web-artifacts-builder,personal,exclude,C2 fail: requires ```bash; scripts/bundle-artifact.sh; scripts/init-artifact.sh,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/webapp-testing,webapp-testing,personal,exclude,C2 fail: requires ```bash; scripts/with_server.py,Complete terms in LICENSE.txt
+/root/.claude/skills/synced/xlsx,xlsx,personal,exclude,C2 fail: requires ```bash; scripts/office/soffice.py; scripts/recalc.py,Proprietary. LICENSE.txt has complete terms
