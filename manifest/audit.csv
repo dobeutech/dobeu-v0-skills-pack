@@ -128,3 +128,6 @@ source_path,skill_name,origin,decision,reason,license
 /root/.claude/skills/synced/web-artifacts-builder,web-artifacts-builder,personal,exclude,C2 fail: requires ```bash; scripts/bundle-artifact.sh; scripts/init-artifact.sh,Complete terms in LICENSE.txt
 /root/.claude/skills/synced/webapp-testing,webapp-testing,personal,exclude,C2 fail: requires ```bash; scripts/with_server.py,Complete terms in LICENSE.txt
 /root/.claude/skills/synced/xlsx,xlsx,personal,exclude,C2 fail: requires ```bash; scripts/office/soffice.py; scripts/recalc.py,Proprietary. LICENSE.txt has complete terms
+/root/.claude/plugins/synced/accessibility-compliance/skills/screen-reader-testing,screen-reader-testing,plugin:accessibility-compliance,reference-public,"C4: no redistribution license; add by reference if on skills.sh, else drop",unknown
+/root/.claude/plugins/synced/accessibility-compliance/skills/wcag-audit-patterns,wcag-audit-patterns,plugin:accessibility-compliance,reference-public,"C4: no redistribution license; add by reference if on skills.sh, else drop",unknown
+PLACEHOLDER_REMAINING_LINES_131_TO_921
